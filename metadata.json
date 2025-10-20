@@ -1,0 +1,5 @@
+{
+  "name": "FAQ Chatbot",
+  "description": "A smart chatbot that answers user questions based on a predefined set of Frequently Asked Questions. It uses natural language processing techniques to find the most relevant answer.",
+  "requestFramePermissions": []
+}
